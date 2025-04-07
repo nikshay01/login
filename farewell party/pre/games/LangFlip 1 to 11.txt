@@ -1,0 +1,182 @@
+Game Name: lANGfLIP 1 TO 11
+
+
+
+Overview:
+
+	Yeh ek fun aur fast game hai jisme aapko 1 se 11 tak ginti bolni hai — Hindi aur English mix karke.
+
+	Rule simple hai: jo number pehle player ne jis language mein bola, next player ko uska **opposite language** use karna hai.
+
+	Jaise:
+	Player 1: One → Player 2: Do → Player 3: Three... aur aise hi 11 tak.
+	Jaise hi koi "11" bolta hai, next player firse "1" se start karega, lekin language flip karni padegi.
+	Galti ki toh out! Last bacha winner! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMPLETE VERSION:
+How to Play:
+
+1. Start:
+   - Choose a starting player.
+   - That player says "1" in either English (One) or Hindi (Ek).
+
+2. Taking Turns:
+   - Each next player continues counting up to 11, one number per turn.
+   - You must say your number in the other language than the one used before you.
+
+3. Reset Rule:
+   - After "11", the next player resets the count to "1", but continues the language-switching rule.
+
+
+extra rules:
+	 	- one of the player will recive a joker card and he can switch to whatever number or language for once only.(i think half of players should have joker card it'd make it more intresting)
+		- every round there will be some "chaos" numbers and for example 5 and 1 are chaos number then the person to say five in whichever languge will have to shout OOOOHHHH!! before saying the number and for 1 they they will have to perform a short dance move or clap or jump etc(to be discussed)
+		- rapid fire: time limit gets down to 1-2 second
+
+
+
+
+
+
+✅ Example Round:
+   Player 1: One (English)
+   Player 2: Do (Hindi for 2)
+   Player 3: Three (English)
+   Player 4: Char (Hindi for 4)
+   ...
+   Player 1: Eleven (English)
+   Player 2: Ek (Hindi for 1) → because the last was English
+   Player 3: Two (English)
+   And so on...
+
+❌ You Lose If You:
+   - Say the wrong number.
+   - Say the number in the same language as the player before you.
+   - Take too long (more than 3 seconds).
+   - Hesitate, stutter, or repeat unnecessarily.
+
+	-PUNISHMENTS:
+		- say your favourite dialogue in a dramatic way
+		- mumble rap karna
+	
+
+
+
+🏆 How to Win:
+   - Be the last player remaining after everyone else is eliminated.
+
+music:
+	intro: jesus
+	outro: empire or hypnotic	
+Links: 
+https://youtube.com/shorts/AW-av24Bdzc?si=gs7A1bTu8yXJJfwK
+
+
+
+
+
+
+
+
+
+
+
+Script:
+
+
+## 🎬 Intro:
+
+*Phonk track jesus* 🎶  
+**(Walk on stage with swag)**
+
+> "Haa haa... pata hai, aap log soch rahe the ki ek aur boring game hoga...  
+par bhaiyo aur behno, yeh normal game nahi hai —  
+yeh hai zubaan ka dangal! 🤯  
+Ready ho zubaan ki kasrat ke liye?!  
+TOH SHURU KARTE HAIN... *ZUBAAN SWITCH!* 🔁🔥"
+
+---
+
+## 🧠 Game Rules (Explained Fun Style):
+
+> - Sirf **Hindi aur English** mein counting karni hai – 1 se 11 tak.
+> - Ek player bolega ek number — next player bolega **agli ginti, lekin doosri language mein!**
+> - Example:  
+>   - Player 1: *One*  
+>   - Player 2: *Do*  
+>   - Player 3: *Three*  
+>   - Player 4: *Char*  
+> - Jab **11 pe pahuch jaayein**, count reset hoga — next player se firse *1 se start hoga*.
+
+**Elimination:**  
+> ❌ Galat number  
+> ❌ Same language as previous  
+> ❌ Zyada time (3 seconds max)  
+> ❌ Repeat / stutter
+
+🎯 **Goal:** ha bhai to JO tikega wo bikega....... usko milegi placement(in BHAAYA LAAL style). or kaha milegi vo to raghav bhaiya jante hi hai.
+
+---
+
+## 😎 Hosting Lines (During Game):
+
+> "Arey arey... zubaan fisal gayi kya? OUT ho gaye bhai!"  
+> "Bhai kya baat hai! Full focus chal raha hai."  
+> "Ooofff! Ekdum tight game ho raha hai yahaan!"  
+> "Zara crowd bhi boli — *One! Ek! Two! Do!* 🔁"  
+> "Jo chup raha... next round usse hi khilaunga tongue twister rap!"
+
+---
+
+## 🏆 Winner Announce:
+
+👑 **If Girl Wins:**
+
+> "Aur jeet chuki hain... the Queen of Tongue Twisters,  
+the Mother of Dragons,(the link of edit givin in links section)  
+aur zubaan ki asli Khaleesi — *crowd clap karo for... (Winner Name)*!! 🔥🐉"
+
+🦸‍♂️ **If Boy Wins:**
+> “Kya timing thi, kya twist tha... bhai ne bola tha — MAIN JHUGEGA NAHI!!”
+
+> "Aur bhaiyon... jeet ke aaya hai zubaan ka Spider-Man!  
+The Sultan of Switch...  
+the OG Main Hoon Na star — *give it up for... (Winner Name)*!! 🕷️💥"
+
+---
+
+## 🎧 Outro (After Game Ends):
+
+*Phonk track plays (Ghost Phonk / Dxrk / Neon Blade)* 🎶  
+**(Mic drop moment)**
+
+> "Haa haa... mujhe pata hai, kuch log soch rahe the —  
+yeh kya chindi game tha... par bhai, zubaan ne toh sabka band baja diya! 🤣  
+Toh ab thoda relax karo...  
+2-3 dance dekh lo... fir aata hoon main...  
+ek aur **mind-blasting** game ke saath!  
+**JE BBAATTTTT!!!** 🔥🔥🔥"
+
+---
+
+## ✅ Crowd Warm-Up Lines (Use Anytime):
+
+> "Jo cheer nahi karega, usko next round mein tongue twister rap dunga!"  
+> "Zubaan chali toh sab chalayenge — bolo sab milke:  
+**One! Ek! Two! Do! – SWITCH!**"  
+> "Yeh stage hai — aur yahaan har word matter karta hai bhai!"
+
+---
+
